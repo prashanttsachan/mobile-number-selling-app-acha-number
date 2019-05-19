@@ -1,0 +1,1 @@
+[01-Feb-2018 09:28:41 UTC] PHP Fatal error:  Cannot redeclare Seller::page() in /home/achanumber/seller.achanumber.com/application/controllers/Seller.php on line 31
